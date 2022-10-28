@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+body{
+background: #ffee58;
+text-align: center;
+}
+header{
+    margin: 20px;
+}
+#container{
+    width: 400px;
+    background: white;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+div{
+    padding: 10px;
+    font-size: 14pt;
+}
+#img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+footer{
+    margin: 20px;
+    font-size: 16pt;
+}
